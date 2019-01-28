@@ -5,7 +5,6 @@ https://heropy.blog/2017/09/30/markdown/
 
 ### markup
 
-
 ```markup
 # 제목1
 ## 제목2
@@ -16,7 +15,6 @@ https://heropy.blog/2017/09/30/markdown/
 ```
 
 ### result
-
 
 # 제목1
 ## 제목2
