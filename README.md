@@ -68,7 +68,7 @@ ___
 - 리스트
 ```
 ### 뷰
-![리스트](https://github.com/justsoo/doc-markdown/blob/master/images/list_1.PNG?raw=true)
+![리스트1](https://github.com/justsoo/doc-markdown/blob/master/images/list_1.PNG?raw=true)
 
 ## 리스트2
 ### 코드
@@ -86,11 +86,24 @@ ___
 	+ 서브
 ```
 ### 뷰
-![리스트](https://github.com/justsoo/doc-markdown/blob/master/images/list_2.PNG?raw=true)	
+![리스트2](https://github.com/justsoo/doc-markdown/blob/master/images/list_2.PNG?raw=true)	
 	
 ## 인용
 ### 코드
+```
+> 인용구문 1
+>> 인용구문 2
+>>> 인용구문 3
+>>>> 인용구문 4
+
+> # 타이틀 인용
+> * 리스트
+> * 서브 리스트는 안됨
+
+> `블럭`
+```
 ### 뷰
+![인용문](https://github.com/justsoo/doc-markdown/blob/master/images/quotation_1.PNG?raw=true)	
 
 ## 개행
 ### 코드
