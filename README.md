@@ -32,7 +32,7 @@ https://gist.github.com/ninanung/6691b7d68a4c1b815c0cc85693929ca3
 ```
 
 ### 뷰
-![텍스트](https://github.com/justsoo/doc-markdown/blob/master/images/title_1.PNG?raw=true)
+![제목](https://github.com/justsoo/doc-markdown/blob/master/images/title_1.PNG?raw=true)
 --------------------------------------------------------------------------------------------------
 
 ## 호라이즌
@@ -44,7 +44,7 @@ ___
 --------------------------------------------------------------------------------------------------
 ```
 ### 뷰
-![텍스트](https://github.com/justsoo/doc-markdown/blob/master/images/horizion_1.PNG?raw=true)
+![호라이즌](https://github.com/justsoo/doc-markdown/blob/master/images/horizion_1.PNG?raw=true)
 
 ## 리스트
 ### 코드
@@ -62,14 +62,4 @@ ___
 - 리스트
 ```
 ### 뷰
-* 리스트
-  * 서브 리스트
-    * 서브 리스트
-
-+ 리스트
-  + 서브 리스트
-    + 입 리스트
-
-- 리스트
-- 리스트
-- 리스트
+![리스트](https://github.com/justsoo/doc-markdown/blob/master/images/list_1.PNG?raw=true)
