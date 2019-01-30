@@ -1,4 +1,4 @@
-# doc-markdown
+# docs-markdown
 
 https://gist.github.com/ihoneymon/652be052a0727ad59601
 https://heropy.blog/2017/09/30/markdown/
