@@ -52,7 +52,7 @@ ___
 ### 뷰
 ![호라이즌](https://github.com/justsoo/doc-markdown/blob/master/images/horizion_1.PNG?raw=true)
 
-## 리스트
+## 리스트1
 ### 코드
 ```
 * 리스트
@@ -70,6 +70,24 @@ ___
 ### 뷰
 ![리스트](https://github.com/justsoo/doc-markdown/blob/master/images/list_1.PNG?raw=true)
 
+## 리스트2
+### 코드
+```
+1. 첫번째
+	1. 서브
+	2. 서브
+2. 두번째
+	1. 서브
+		1. 서서브
+		2. 서서브
+	1. 서브
+3. 세번째
+	+ 서브
+	+ 서브
+```
+### 뷰
+![리스트](https://github.com/justsoo/doc-markdown/blob/master/images/list_2.PNG?raw=true)	
+	
 ## 인용
 ### 코드
 ### 뷰
