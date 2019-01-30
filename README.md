@@ -5,7 +5,7 @@ https://heropy.blog/2017/09/30/markdown/
 https://steemit.com/kr/@antares007/-201787t14245290z
 https://gist.github.com/ninanung/6691b7d68a4c1b815c0cc85693929ca3
 
-## 목록
+# 목록
 제목과 호라이즌
 
 리스트와 인용
@@ -16,8 +16,8 @@ https://gist.github.com/ninanung/6691b7d68a4c1b815c0cc85693929ca3
 
 블럭과 테이블
 
-## 제목과 호라이즌
-### 코드
+# 제목과 호라이즌
+## 코드
 ```markup
 # 제목1
 ## 제목2
@@ -27,4 +27,5 @@ https://gist.github.com/ninanung/6691b7d68a4c1b815c0cc85693929ca3
 ###### 제목6
 ```
 
-### 뷰
+## 뷰
+![텍스트](https://github.com/justsoo/doc-markdown/blob/master/images/title_1.PNG?raw=true)
