@@ -10,7 +10,9 @@ https://gist.github.com/ninanung/6691b7d68a4c1b815c0cc85693929ca3
 
 호라이즌
 
-리스트와 인용
+리스트
+
+인용
 
 개행과 문자강조
 
@@ -20,7 +22,7 @@ https://gist.github.com/ninanung/6691b7d68a4c1b815c0cc85693929ca3
 
 ## 제목
 ### 코드
-```markup
+```
 # 제목1
 ## 제목2
 ### 제목3
@@ -35,7 +37,7 @@ https://gist.github.com/ninanung/6691b7d68a4c1b815c0cc85693929ca3
 
 ## 호라이즌
 ### 코드
-```markup
+```
 ***
 ---
 ___
@@ -43,3 +45,31 @@ ___
 ```
 ### 뷰
 ![텍스트](https://github.com/justsoo/doc-markdown/blob/master/images/horizion_1.PNG?raw=true)
+
+## 리스트
+### 코드
+```
+* 리스트
+  * 서브 리스트
+    * 서브 리스트
+
++ 리스트
+  + 서브 리스트
+    + 입 리스트
+
+- 리스트
+- 리스트
+- 리스트
+```
+### 뷰
+* 리스트
+  * 서브 리스트
+    * 서브 리스트
+
++ 리스트
+  + 서브 리스트
+    + 입 리스트
+
+- 리스트
+- 리스트
+- 리스트
