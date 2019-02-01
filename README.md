@@ -31,7 +31,7 @@ https://gist.github.com/ninanung/6691b7d68a4c1b815c0cc85693929ca3
 ```
 
 ### 뷰
-![제목](https://github.com/justsoo/docs-markdown/blob/master/images/title_1.PNG?raw=true)
+![제목](https://github.com/justsoo/docs-markdown/master/images/title_1.PNG?raw=true)
 --------------------------------------------------------------------------------------------------
 
 ## 호라이즌
@@ -43,7 +43,7 @@ ___
 --------------------------------------------------------------------------------------------------
 ```
 ### 뷰
-![호라이즌](https://github.com/justsoo/docs-markdown/blob/master/images/horizion_1.PNG?raw=true)
+![호라이즌](https://github.com/justsoo/docs-markdown/master/images/horizion_1.PNG?raw=true)
 
 ## 리스트1
 ### 코드
@@ -61,7 +61,7 @@ ___
 - 리스트
 ```
 ### 뷰
-![리스트1](https://github.com/justsoo/docs-markdown/blob/master/images/list_1.PNG?raw=true)
+![리스트1](https://github.com/justsoo/docs-markdown/master/images/list_1.PNG?raw=true)
 
 ## 리스트2
 ### 코드
@@ -79,7 +79,7 @@ ___
 	+ 서브
 ```
 ### 뷰
-![리스트2](https://github.com/justsoo/docs-markdown/blob/master/images/list_2.PNG?raw=true)	
+![리스트2](https://github.com/justsoo/docs-markdown/master/images/list_2.PNG?raw=true)	
 	
 ## 인용
 ### 코드
@@ -96,7 +96,7 @@ ___
 > `블럭`
 ```
 ### 뷰
-![인용문](https://github.com/justsoo/docs-markdown/blob/master/images/quotation_1.PNG?raw=true)	
+![인용문](https://github.com/justsoo/docs-markdown/master/images/quotation_1.PNG?raw=true)	
 
 ## 개행
 ### 코드
@@ -113,7 +113,7 @@ ___
 세번째 줄
 ```
 ### 뷰
-![인용문](https://github.com/justsoo/docs-markdown/blob/master/images/newline_1.PNG?raw=true)	
+![인용문](https://github.com/justsoo/docs-markdown/master/images/newline_1.PNG?raw=true)	
 
 
 첫번째 줄
@@ -132,7 +132,7 @@ _이탤릭2_
 __볼드__
 ```
 ### 뷰
-![인용문](https://github.com/justsoo/docs-markdown/blob/master/images/bold_1.PNG?raw=true)	
+![인용문](https://github.com/justsoo/docs-markdown/master/images/bold_1.PNG?raw=true)	
 
 ## 링크
 ### 코드
