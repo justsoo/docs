@@ -100,11 +100,39 @@ ___
 
 ## 개행
 ### 코드
+```
+첫번째 줄(스페이스)(스페이스)    
+두번째 줄(스페이스)(스페이스)    
+세번째 줄(스페이스)(스페이스)  
+
+
+첫번째 줄
+
+두번째 줄
+
+세번째 줄
+```
 ### 뷰
+![인용문](https://github.com/justsoo/doc-markdown/blob/master/images/newline_1.PNG?raw=true)	
+
+
+첫번째 줄
+
+두번째 줄
+
+세번째 줄
 
 ## 문자강조
 ### 코드
+```
+*이탤릭1*(스페이스)(스페이스)    
+_이탤릭2_
+
+**볼드**(스페이스)(스페이스)    
+__볼드__
+```
 ### 뷰
+![인용문](https://github.com/justsoo/doc-markdown/blob/master/images/bold_1.PNG?raw=true)	
 
 ## 링크
 ### 코드
