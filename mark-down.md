@@ -137,7 +137,7 @@ __볼드__
 [just mark down test](https://github.com/justsoo/docs)
 ```
 ### 뷰
-![이미지](https://github.com/justsoo/docs-markdown/blob/master/images/link_1.PNG?raw=true)
+![링크](https://github.com/justsoo/docs-markdown/blob/master/images/link_1.PNG?raw=true)
 
 
 ## 이미지넣기
@@ -154,12 +154,46 @@ __볼드__
 
 ## 블럭
 ### 코드
+~~~
+```
+ for (int i = 0; i < 5; i++)
+ {
+     Console.WriteLine(i);
+ }
+```
+~~~
+
+```
+~~~
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine(i);
+}
+~~~
+```
+
+~~~
+```c#
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine(i);
+}
+```
+~~~
 ### 뷰
+![블럭](https://github.com/justsoo/docs-markdown/blob/master/images/block_1.PNG?raw=true)
 
 ## 테이블
 ### 코드
+```
+헤더1|헤더2| 헤더3
+----|----|---- 
+컬럼(1,1)|컬럼(1,2)|컬럼(1,3)
+컬럼(2,1)|컬럼(2,2)|컬럼(2,3)
+컬럼(3,1)|컬럼(3,2)|컬럼(3,3)
+```
 ### 뷰
+![테이블](https://github.com/justsoo/docs-markdown/blob/master/images/table_1.PNG?raw=true)
 
 
-
-마크업, 마크다운 둘 다 힘들다..
+마크업, 마크다운 둘 다 힘들다...
