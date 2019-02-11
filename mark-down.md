@@ -130,10 +130,20 @@ __볼드__
 
 ## 링크
 ### 코드
+```
+<https://github.com/justsoo/docs>
+
+[just mark down test](https://github.com/justsoo/docs)
+```
 ### 뷰
 
 ## 이미지넣기
 ### 코드
+```
+![이미지1](.\images\profile.jpg)
+![이미지2](https://avatars3.githubusercontent.com/u/10492283?s=460&v=4)
+![이미지3](https://avatars3.githubusercontent.com/u/10492283?s=460&v=4 "프로필 이미지")
+```
 ### 뷰
 
 ## 블럭
