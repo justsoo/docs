@@ -128,6 +128,7 @@ __볼드__
 ### 뷰
 ![문자강조](https://github.com/justsoo/docs-markdown/blob/master/images/bold_1.png?raw=true)	
 
+
 ## 링크
 ### 코드
 ```
@@ -136,9 +137,9 @@ __볼드__
 [just mark down test](https://github.com/justsoo/docs)
 ```
 ### 뷰
-<https://github.com/justsoo/docs>
+![이미지](https://github.com/justsoo/docs-markdown/blob/master/images/link_1.png?raw=true)
 
-[just mark down test](https://github.com/justsoo/docs)
+
 ## 이미지넣기
 ### 코드
 ```
@@ -147,9 +148,7 @@ __볼드__
 ![이미지3](https://avatars3.githubusercontent.com/u/10492283?s=460&v=4 "프로필 이미지")
 ```
 ### 뷰
-![이미지1](./images/github.PNG)
-![이미지2](https://github.com/justsoo/docs/blob/master/images/github.PNG?raw=true)
-![이미지3](https://github.com/justsoo/docs/blob/master/images/github.PNG?raw=true "프로필 이미지")
+![이미지](https://github.com/justsoo/docs-markdown/blob/master/images/image_1.png?raw=true)	
 
 
 
