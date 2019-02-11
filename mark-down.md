@@ -137,7 +137,7 @@ __볼드__
 [just mark down test](https://github.com/justsoo/docs)
 ```
 ### 뷰
-![이미지](https://github.com/justsoo/docs-markdown/blob/master/images/link_1.png?raw=true)
+![이미지](https://github.com/justsoo/docs-markdown/blob/master/images/link_1.PNG?raw=true)
 
 
 ## 이미지넣기
