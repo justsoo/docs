@@ -3,7 +3,7 @@
 (http://woowabros.github.io/woowabros/2017/09/12/realtime-service.html)
 
 #### 성능적인 관점  
-> \[장점\]single thread : context switching 없음 -> cpu 많이 않쓰고, 많은 connect를 동시에 처리 하기 좋다.  
+> \[장점\]single thread : context switching 없음(성능 잘나옴) -> cpu 많이 않쓰고, 많은 connect를 동시에 처리 하기 좋다.  
 > \[단점\]DB 연동 또는 File IO가 있을 경우, multi thread기 때문에, 서비스 성격 고려해야한다.  
 > \[단점\]single thread : 하나의 작업 처리 시간이 길어지면, 급격한 성능이 저하 된다.  
 #### 생산성 관점 
