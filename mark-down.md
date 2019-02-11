@@ -147,9 +147,11 @@ __볼드__
 ![이미지3](https://avatars3.githubusercontent.com/u/10492283?s=460&v=4 "프로필 이미지")
 ```
 ### 뷰
-![이미지1](./images/profile.jpg)
-![이미지2](https://avatars3.githubusercontent.com/u/10492283?s=460&v=4)
-![이미지3](https://avatars3.githubusercontent.com/u/10492283?s=460&v=4 "프로필 이미지")
+![이미지1](./images/github.PNG)
+![이미지2](https://github.com/justsoo/docs/blob/master/images/github.PNG?raw=true)
+![이미지3](https://github.com/justsoo/docs/blob/master/images/github.PNG?raw=true "프로필 이미지")
+
+
 
 ## 블럭
 ### 코드
