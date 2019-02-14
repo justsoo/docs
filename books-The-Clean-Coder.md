@@ -1,4 +1,4 @@
-# The Clean Coder
+# The Clean Coder - 로버트 마틴 저 | 정희종 
 
 
 ### 0. 미리 읽어두기
