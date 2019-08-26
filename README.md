@@ -5,3 +5,4 @@
 * [books-엔터프라이즈 어플리케이션 아키텍처](https://github.com/justsoo/docs/blob/master/books-patterns-of-enterprise-application-architecture.md)
 * [think-nodejs](https://github.com/justsoo/docs/blob/master/think-nodejs.md)
 * [books-The-Clean-Coder](https://github.com/justsoo/docs/blob/master/books-The-Clean-Coder.md)
+* [policy-git](https://github.com/justsoo/docs/blob/master/policy-git.md)
