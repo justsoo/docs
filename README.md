@@ -6,4 +6,4 @@
 * [think-nodejs](https://github.com/justsoo/docs/blob/master/think-nodejs.md)
 * [books-The-Clean-Coder](https://github.com/justsoo/docs/blob/master/books-The-Clean-Coder.md)
 * [policy-git](https://github.com/justsoo/docs/blob/master/policy-git.md)
-* [InfluxDB-vs-Prometheus](https://github.com/justsoo/docs/blob/master/InfluxDBvsPrometheus.uxDBvsPrometheus.md)
+* [InfluxDB-vs-Prometheus](https://github.com/justsoo/docs/blob/master/InfluxDBvsPrometheus.md)
