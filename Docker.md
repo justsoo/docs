@@ -1,7 +1,6 @@
 출처: https://www.docker.com/    
 출처: https://minimilab.tistory.com/7 [MINIMI LAB]    
 
-Docker Private Registry 구축
 
 Docker Registry
 ---- 
