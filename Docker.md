@@ -63,13 +63,13 @@ $ docker pull <원하는 도메인 또는 IP>:5000/mongo:latest
 명령어
 ----
 
-> docker images : 이미지 확인    
-> docker ps : 컨테이너 조회   
-* -a : 전체 컨테이너 조회
-> docker pull    
-> docker push   
-> docker run    
-> docker tag    
-> docker build    
-> docker commit    
-> docker load    
+* docker images : 이미지 확인    
+* docker ps : 컨테이너 조회   
+> -a : 전체 컨테이너 조회
+* docker pull    
+* docker push   
+* docker run    
+* docker tag    
+* docker build    
+* docker commit    
+* docker load    
