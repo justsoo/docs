@@ -11,7 +11,7 @@ Docker Registry
 sudo docker pull registry:latest
 ~~~
 
-> registry 실행
+> registry 실행    
 -d : 백그라운드로 실행    
 --name : 이미지 이름 설정    
 -p : 사용할 포트 설정 (host port : docker port)   
