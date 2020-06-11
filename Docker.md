@@ -6,16 +6,19 @@ Docker Private Registry 구축
 Docker Registry
 ---- 
 
-1. registry v2 설치
+> registry v2 설치
+~~~
 sudo docker pull registry:latest
+~~~
 
 2. registry 실행
 -d : 백그라운드로 실행
 --name : 이미지 이름 설정
 -p : 사용할 포트 설정 (host port : docker port)
 --restart always : 컨테이너가 종료되어도 다시 실행
-
+~~~
 docker run -d --name registry -p 5000:5000 --restart always registry
+~~~
 
 3. tag 설정
 registry에 push 할 이미지의 태그를 등록합니다.
